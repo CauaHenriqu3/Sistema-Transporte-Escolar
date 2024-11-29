@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Alunos",
+      "image": "/images/products/product-1.png",
+      "rating": 4,
+      "price": "O cadastro de Alunos é uma peça fundamental na organização e controle. No TRESCOLAR você encontra uma ferramenta simples e moderna. Você ainda pode: visualizar a ficha dos Alunos, selecionar e (ou) excluir os Alunos. Tudo muito fácil!"
+    },
+    {
+      "id": 2,
+      "name": "Responsáveis",
+      "image": "/images/products/product-2.png",
+      "price": "No cadastro de responsáveis você além de cadastrar, excluir, gerenciar, organizar, selecionar, pesquisar você ainda terá controle total das informações obtidas, deixando para trás todas aquelas fichas que só aumentam."
+    },
+    {
+      "id": 3,
+      "name": "Organização",
+      "image": "/images/products/product-3.png",
+      "price":"Cadastre alunos, gere documentos, registre itinerários, acompanhe percursos e receba pagamentos em uma única plataforma. Automatize suas tarefas e libere tempo para novas oportunidades!"
+    },
+    {
+      "id": 4,
+      "name": "Roteiro",
+      "image": "/images/products/product-4.png",
+      "rating": 3,
+      "price": "Crie, gerencie e acompanhe roteiros de transporte escolar de forma fácil e conveniente. Nunca perca de vista quais alunos devem ir para a escola e permita que os pais selecionem as opções de presença. Simplifique sua gestão escolar com TRESCOLAR hoje mesmo!"
+    },
+    {
+      "id": 5,
+      "name": "Documentos",
+      "image": "/images/products/product-5.png",
+      "price": "Chega de criar e imprimir contratos manualmente para cada cliente. Com nosso sistema, você pode editar e gerar os contratos automaticamente para cada cliente, sem dor de cabeça. Simplifique sua vida e concentre-se no que realmente importa. Venha para o TRESCOLAR hoje mesmo!"
+    },
+    {
+      "id": 6,
+      "name": "Financeiro",
+      "image": "/images/products/product-6.png",
+      "price": "Equilibre gastos e lucratividade, acompanhando contas a pagar e a receber. Com um clique, imprima recibos e relatórios, poupando horas de trabalho manual. Simplifique sua gestão financeira e concentre-se no crescimento do seu negócio. Experimente agora!"
+    }
+  ]
+}
